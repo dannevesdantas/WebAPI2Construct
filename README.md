@@ -14,7 +14,7 @@ If you are developing a game with Construct 2 game engine and want to save, load
 We recommend that before you start, if possible, you to study ASP.NET web services, that we call "[ASP.NET Web API](http://www.asp.net/web-api)", you can find a great tutorial [here](http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api). This will help you a lot ;)
     
 ## How to Use
-### Converting a C# object to Construct2 Dictionary format
+### Converting a C♯ object to Construct2 Dictionary format
 
 ###### First pass: Visual Studio
 1. If you already don't, [download Microsoft Visual Studio for free](http://www.visualstudio.com/pt-br/downloads/download-visual-studio-vs#DownloadFamilies_2)
