@@ -14,7 +14,7 @@ If you are developing a game with Construct 2 game engine and want to save, load
 ### Converting a C# object to Construct2 Dictionary format
 
 ###### First Pass: Visual Studio
-1. If you already don't, [download Microsoft Visual Studio for free](http://www.visualstudio.com/pt-br/downloads/download-visual-studio-vs#DownloadFamilies_2) and [create a new](http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api), or use an existing [ASP.NET WEB API](http://www.asp.net/web-api) project and [install WebAPI2Construct via NuGet Package Manager](https://www.youtube.com/watch?v=02LQNppYVx0)
+1. If you already don't, [download Microsoft Visual Studio for free](http://www.visualstudio.com/pt-br/downloads/download-visual-studio-vs#DownloadFamilies_2) and [create a new project](http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api), or use an existing [ASP.NET WEB API](http://www.asp.net/web-api) project and [install WebAPI2Construct via NuGet Package Manager](https://www.youtube.com/watch?v=02LQNppYVx0)
 2. Set up the CORS in your project, see [how to set up CORS in a WEB API project](http://www.asp.net/web-api/overview/security/enabling-cross-origin-requests-in-web-api)
 3. Disable XML formatter in the *WebAPIConfig.cs*, inside the *Register* method, in the *App_Start* project's folder, it will make JSON the default format:
 
