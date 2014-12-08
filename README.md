@@ -35,4 +35,4 @@ return playerDataJSONDictionary; // Send the data to the game
 Using an Dictionary you will be able to pass more complex data to the game, at the same time.
 
 ## LICENSE
-[Apache 2.0 License](https://github.com/danilondantas/WebAPI2Construct/blob/master/LICENSE)
+[Apache 2.0 License](https://github.com/dannevesdantas/WebAPI2Construct/blob/master/LICENSE)
