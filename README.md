@@ -13,7 +13,8 @@ If you are developing a game in the Construct 2 game engine and want to save, lo
 ## How to Use
 ### Converting a C# object to Construct2 Dictionary format
 
-1. In an ASP.NET WEB API project, use the Construct2Convert.ToDictionary() to convert objects or collections to a Construct2 Dictionary data format.
+###### First Pass: Visual Studio
+* In an ASP.NET WEB API project, use the Construct2Convert.ToDictionary() to convert objects or collections to a Construct2 Dictionary data format.
 
 ```
 PlayerData playerData = new PlayerData(); // An example object with the data to be sent to the game
@@ -26,6 +27,7 @@ var playerDataJSONDictionary = Construct2Convert.ToDictionary(playerData);
 return playerDataJSONDictionary; // Send the data to the game
 ```
 
+###### Second Pass: Construct 2
 2. When in Construct 2, use an AJAX object "Request URL" action to request the data to ASP.NET WEB API service's address.
 3. Catch the data in the game using the AJAX "On completed" event
 4. Use a Dictionary object "Load" action to load the data from the AJAX.LastData variable
