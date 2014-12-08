@@ -43,7 +43,7 @@ return Ok(playerDataJSONDictionary); // Send the data to the game
 ```
 
 ###### Second Pass: Construct 2
-2. When in Construct 2, use an [AJAX object](https://www.scirra.com/manual/107/ajax) *Request URL* action to request the data to ASP.NET WEB API project that still runing in Visual Studio or hosted in one web server in the internet.
+2. When in Construct 2, use an [AJAX object](https://www.scirra.com/manual/107/ajax) *Request URL* action to request the data to ASP.NET WEB API project that still runing in Visual Studio, or hosted in one web server.
 3. Catch the data in the game using the AJAX *On completed* event.
 4. Use a [Dictionary](https://www.scirra.com/manual/140/dictionary) object *Load* action to load the data from the *AJAX.LastData* variable.
 5. After that you be able to read your data from inside the [Dictionary](https://www.scirra.com/manual/140/dictionary).
