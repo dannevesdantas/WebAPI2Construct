@@ -15,7 +15,7 @@ If you are developing a game with Construct 2 game engine and want to save, load
 
 ###### First Pass: Visual Studio
 1. If you already don't, [download Microsoft Visual Studio for free](http://www.visualstudio.com/pt-br/downloads/download-visual-studio-vs#DownloadFamilies_2)
-2. [Create a new project](http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api), or use an existing [ASP.NET WEB API](http://www.asp.net/web-api) project.
+2. [Create a new project](http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api), or open an existing [ASP.NET WEB API](http://www.asp.net/web-api) project.
 3. [Install WebAPI2Construct via NuGet Package Manager](https://www.youtube.com/watch?v=02LQNppYVx0)
 4. Set up the CORS in your project, see [how to set up CORS in a WEB API project](http://www.asp.net/web-api/overview/security/enabling-cross-origin-requests-in-web-api)
 5. Disable XML formatter inside the *Register* method in the *WebAPIConfig.cs*, it can be found at *App_Start* project's folder. It will make JSON the default format:
