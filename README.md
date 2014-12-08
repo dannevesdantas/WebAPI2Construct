@@ -36,7 +36,7 @@ return playerDataJSONDictionary; // Send the data to the game
 5. After that you be able to read your data from inside the [Dictionary](https://www.scirra.com/manual/140/dictionary)
 
 ### Why using Construct 2 Dictionaries?
-Using an Dictionary you will be able to pass more complex data to the game, at the same time.
+Using a Dictionary you will be able to pass more complex data to the game, at the same time.
 
 ## LICENSE
 [Apache 2.0 License](https://github.com/dannevesdantas/WebAPI2Construct/blob/master/LICENSE)
