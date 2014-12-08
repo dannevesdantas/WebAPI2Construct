@@ -1,0 +1,14 @@
+c:\users\família dantas\documents\visual studio 2013\Projects\WebAPI2Construct\WebAPI2Construct\bin\Debug\WebAPI2Construct.dll
+c:\users\família dantas\documents\visual studio 2013\Projects\WebAPI2Construct\WebAPI2Construct\bin\Debug\WebAPI2Construct.pdb
+c:\users\família dantas\documents\visual studio 2013\Projects\WebAPI2Construct\WebAPI2Construct\bin\Debug\Newtonsoft.Json.dll
+c:\users\família dantas\documents\visual studio 2013\Projects\WebAPI2Construct\WebAPI2Construct\bin\Debug\Newtonsoft.Json.xml
+c:\users\família dantas\documents\visual studio 2013\Projects\WebAPI2Construct\WebAPI2Construct\obj\Debug\WebAPI2Construct.dll
+c:\users\família dantas\documents\visual studio 2013\Projects\WebAPI2Construct\WebAPI2Construct\obj\Debug\WebAPI2Construct.pdb
+C:\WebAPI2Construct\WebAPI2Construct\bin\Debug\WebAPI2Construct.dll
+C:\WebAPI2Construct\WebAPI2Construct\bin\Debug\WebAPI2Construct.pdb
+C:\WebAPI2Construct\WebAPI2Construct\bin\Debug\Newtonsoft.Json.dll
+C:\WebAPI2Construct\WebAPI2Construct\bin\Debug\Newtonsoft.Json.xml
+C:\WebAPI2Construct\WebAPI2Construct\obj\Debug\WebAPI2Construct.dll
+C:\WebAPI2Construct\WebAPI2Construct\obj\Debug\WebAPI2Construct.pdb
+C:\WebAPI2Construct\WebAPI2Construct\bin\Debug\WebAPI2Construct.XML
+C:\WebAPI2Construct\WebAPI2Construct\obj\Debug\WebAPI2Construct.csprojResolveAssemblyReference.cache

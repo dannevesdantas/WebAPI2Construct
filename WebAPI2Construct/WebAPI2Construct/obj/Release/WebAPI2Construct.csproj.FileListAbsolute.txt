@@ -1,0 +1,7 @@
+C:\WebAPI2Construct\WebAPI2Construct\bin\Release\WebAPI2Construct.dll
+C:\WebAPI2Construct\WebAPI2Construct\bin\Release\WebAPI2Construct.pdb
+C:\WebAPI2Construct\WebAPI2Construct\bin\Release\Newtonsoft.Json.dll
+C:\WebAPI2Construct\WebAPI2Construct\bin\Release\Newtonsoft.Json.xml
+C:\WebAPI2Construct\WebAPI2Construct\obj\Release\WebAPI2Construct.dll
+C:\WebAPI2Construct\WebAPI2Construct\obj\Release\WebAPI2Construct.pdb
+C:\WebAPI2Construct\WebAPI2Construct\bin\Release\WebAPI2Construct.XML
