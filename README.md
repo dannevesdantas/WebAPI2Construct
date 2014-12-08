@@ -4,7 +4,7 @@ WebAPI2Construct
 WebAPI2Construct simplifies the integration of ASP.NET Web API with Construct 2 game engine by Scirra
 
 ## What can it be used for?
-If you are developing a game in the Construct 2 game engine and want to save, load, delete ou update information from a server and/or a database you can use Microsoft ASP.NET WEB API with WebAPI2Construct to format the game's data in a format that Construct 2 can understand.
+If you are developing a game in the Construct 2 game engine and want to save, load, delete ou update information from a server and/or a database you can use Microsoft ASP.NET WEB API with WebAPI2Construct to format the game's data in a format that Construct 2 can understand when sending it from the ASP.NET server to the game.
 
 ## Get it on NuGet!
     
