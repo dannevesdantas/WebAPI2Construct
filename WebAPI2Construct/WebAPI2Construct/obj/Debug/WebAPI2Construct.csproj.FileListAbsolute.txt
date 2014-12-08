@@ -12,3 +12,10 @@ C:\WebAPI2Construct\WebAPI2Construct\obj\Debug\WebAPI2Construct.dll
 C:\WebAPI2Construct\WebAPI2Construct\obj\Debug\WebAPI2Construct.pdb
 C:\WebAPI2Construct\WebAPI2Construct\bin\Debug\WebAPI2Construct.XML
 C:\WebAPI2Construct\WebAPI2Construct\obj\Debug\WebAPI2Construct.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\WebAPI2Construct\WebAPI2Construct\WebAPI2Construct\bin\Debug\WebAPI2Construct.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\WebAPI2Construct\WebAPI2Construct\WebAPI2Construct\bin\Debug\WebAPI2Construct.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\WebAPI2Construct\WebAPI2Construct\WebAPI2Construct\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\WebAPI2Construct\WebAPI2Construct\WebAPI2Construct\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\WebAPI2Construct\WebAPI2Construct\WebAPI2Construct\obj\Debug\WebAPI2Construct.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\WebAPI2Construct\WebAPI2Construct\WebAPI2Construct\obj\Debug\WebAPI2Construct.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\WebAPI2Construct\WebAPI2Construct\WebAPI2Construct\obj\Debug\WebAPI2Construct.pdb
