@@ -14,7 +14,7 @@ If you are developing a game in the Construct 2 game engine and want to save, lo
 ### Converting a C# object to Construct2 Dictionary format
 
 ###### First Pass: Visual Studio
-* In an ASP.NET WEB API project, use the Construct2Convert.ToDictionary() to convert objects or collections to a Construct2 Dictionary data format.
+* In an ASP.NET WEB API project, install WebAPI2Construct via NuGet and use the Construct2Convert.ToDictionary() to convert objects or collections to a Construct2 Dictionary data format:
 
 ```
 PlayerData playerData = new PlayerData(); // An example object with the data to be sent to the game
