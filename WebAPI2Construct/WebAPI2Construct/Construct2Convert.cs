@@ -5,7 +5,7 @@ using System.Linq;
 namespace WebAPI2Construct
 {
     /// <summary>
-    /// Helps to convert data to the Construct 2 format.
+    /// Prove métodos para converter objetos em formatos que possam ser reconhecidos pela game engine Construct 2 da Scirra 
     /// </summary>
     public static class Construct2Convert
     {
@@ -87,3 +87,4 @@ namespace WebAPI2Construct
 
     }
 }
+
