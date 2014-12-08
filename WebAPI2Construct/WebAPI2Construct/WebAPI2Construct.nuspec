@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>0.1.4</version>
+    <title>WebAPI2Construct</title>
+    <authors>Danilo das Neves Dantas, Thiago Borges Goncalves Penna</authors>
+    <owners>Danilo das Neves Dantas</owners>
+    <licenseUrl>https://github.com/dannevesdantas/WebAPI2Construct/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/dannevesdantas/WebAPI2Construct</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>WebAPI2Construct simplifies the integration of ASP.NET Web API with Construct 2 game engine by Scirra</description>
+    <releaseNotes>Construct 2 Construct2 Web API AJAX JSON Service</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Construct 2 Construct2 Web API AJAX JSON Service</tags>
+  </metadata>
+</package>
