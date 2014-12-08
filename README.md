@@ -26,7 +26,7 @@ playerData.HiScore = 999;
 // Use WebAPI2Construct to put your data in Construct2 readable format
 var playerDataJSONDictionary = Construct2Convert.ToDictionary(playerData);
 
-return playerDataJSONDictionary; // Send the data to the game
+return Json(playerDataJSONDictionary, JsonRequestBehavior.AllowGet); // Send the data to the game
 ```
 
 ###### Second Pass: Construct 2
