@@ -36,7 +36,7 @@ PlayerData playerData = new PlayerData();
 playerData.PlayerName = "John";
 playerData.HiScore = 999;
 
-// Use WebAPI2Construct to put your data in a Construct2 readable format
+// Use WebAPI2Construct to transform your data in a Construct2 readable format
 var playerDataJSONDictionary = Construct2Convert.ToDictionary(playerData);
 
 return Ok(playerDataJSONDictionary); // Send the data to the game
