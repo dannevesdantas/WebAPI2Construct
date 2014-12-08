@@ -19,7 +19,7 @@ We recommend that before you start, if possible, you to study ASP.NET web servic
 ###### First Pass: Visual Studio
 1. If you already don't, [download Microsoft Visual Studio for free](http://www.visualstudio.com/pt-br/downloads/download-visual-studio-vs#DownloadFamilies_2)
 2. [Create a new ASP.NET WEB API project](http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api), or open an existing one.
-3. Install WebAPI2Construct via NuGet Package Manager, inside Visual Studio.
+3. Install [WebAPI2Construct](https://www.nuget.org/packages/WebAPI2Construct/) via [NuGet Package Manager](http://docs.nuget.org/docs/start-here/using-the-package-manager-console), inside Visual Studio.
 4. Set up the CORS. See [how to set up CORS in a WEB API project](http://www.asp.net/web-api/overview/security/enabling-cross-origin-requests-in-web-api)
 5. Disable XML formatter inside the *Register* method, in the *WebAPIConfig.cs* (it can be found at *App_Start* project's folder). It will make JSON the default formatter:
 
