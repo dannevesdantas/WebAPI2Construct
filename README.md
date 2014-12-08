@@ -16,7 +16,7 @@ We recommend that before you start, if possible, you to study ASP.NET web servic
 ## How to Use
 ### Converting a C# object to Construct2 Dictionary format
 
-###### First Pass: Visual Studio
+###### First pass: Visual Studio
 1. If you already don't, [download Microsoft Visual Studio for free](http://www.visualstudio.com/pt-br/downloads/download-visual-studio-vs#DownloadFamilies_2)
 2. [Create a new ASP.NET WEB API project](http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api), or open an existing one.
 3. Install [WebAPI2Construct](https://www.nuget.org/packages/WebAPI2Construct/) via [NuGet Package Manager](http://docs.nuget.org/docs/start-here/using-the-package-manager-console), inside Visual Studio.
@@ -42,7 +42,7 @@ var playerDataJSONDictionary = Construct2Convert.ToDictionary(playerData);
 return Ok(playerDataJSONDictionary); // Send the data to the game
 ```
 
-###### Second Pass: Construct 2
+###### Second pass: Construct 2
 2. When in Construct 2, use an [AJAX object](https://www.scirra.com/manual/107/ajax) *Request URL* action to request the data to ASP.NET WEB API project that still runing in Visual Studio, or hosted in a web server.
 3. Catch the data in the game using the AJAX *On completed* event.
 4. Use a [Dictionary](https://www.scirra.com/manual/140/dictionary) object *Load* action to load the data from the *AJAX.LastData* variable.
