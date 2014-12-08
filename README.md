@@ -12,7 +12,9 @@ WebAPI2Construct simplifies the integration of ASP.NET Web API with Construct 2 
 
 ```
 PlayerData playerData = new PlayerData(); // An example object with the data to be sent to the game
-var playerDataJSON = Construct2Convert.ToDictionary(playerData); // Use WebAPI2Construct to put tour data in the Construct 2 readable format
+
+// Use WebAPI2Construct to put tour data in the Construct 2 readable format
+var playerDataJSON = Construct2Convert.ToDictionary(playerData);
 
 return playerDataJSON; // Send the data to the game
 ```
