@@ -26,10 +26,10 @@ var playerDataJSONDictionary = Construct2Convert.ToDictionary(playerData);
 return playerDataJSONDictionary; // Send the data to the game
 ```
 
-2. When in Construct 2, use an AJAX object "Request URL" action to request the data to ASP.NET WEB API
+2. When in Construct 2, use an AJAX object "Request URL" action to request the data to ASP.NET WEB API service's address.
 3. Catch the data in the game using the AJAX "On completed" event
-4. After that, use an Dictionary object "Load" action to load the data from the AJAX.LastData variable
-5. After that you be able to take your data inside the Dictionary
+4. Use a Dictionary object "Load" action to load the data from the AJAX.LastData variable
+5. After that you be able to read your data inside the Dictionary
 
 ### Why using Construct 2 Dictionaries?
 Using an Dictionary you will be able to pass more complex data to the game, at the same time.
