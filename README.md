@@ -25,7 +25,7 @@ If you are developing a game with Construct 2 game engine and want to save, load
 config.Formatters.Remove(config.Formatters.XmlFormatter); // Disable the XML formatter
 ```
 
-Now you are ready to use the ```Construct2Convert.ToDictionary()``` to convert objects or collections, like arrays, to the Construct2 Dictionary data format, example code:
+Now you are ready to use the ```Construct2Convert.ToDictionary()``` in a Controller Action to convert objects or collections, like arrays, to the Construct2 Dictionary data format, example:
 
 ```
 // An example object with the data to be sent to the game
