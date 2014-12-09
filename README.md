@@ -11,7 +11,8 @@ If you are developing a game with Construct 2 game engine and want to save, load
     Install-Package WebAPI2Construct
     
 ## How to Use
-Visit "*Using AJAX object with ASP.NET Web API*" at [https://www.scirra.com/tutorials/1297/using-ajax-object-with-aspnet-web-api](https://www.scirra.com/tutorials/1297/using-ajax-object-with-aspnet-web-api)
+######Using AJAX object with ASP.NET Web API######
+[https://www.scirra.com/tutorials/1297/using-ajax-object-with-aspnet-web-api](https://www.scirra.com/tutorials/1297/using-ajax-object-with-aspnet-web-api)
 
 ## LICENSE
 [Apache 2.0 License](https://github.com/dannevesdantas/WebAPI2Construct/blob/master/LICENSE)
