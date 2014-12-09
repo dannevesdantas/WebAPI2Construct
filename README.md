@@ -10,46 +10,9 @@ If you are developing a game with Construct 2 game engine and want to save, load
     
     Install-Package WebAPI2Construct
     
-## New to C♯ and ASP.NET MVC?
-We recommend that before you start, if possible, you to study ASP.NET web services, that we call "[ASP.NET Web API](http://www.asp.net/web-api)", you can find a great tutorial [here](http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api). This will help you a lot ;)
-    
 ## How to Use
-### Converting a C♯ object to Construct2 Dictionary format
-
-###### First pass: Visual Studio
-1. If you already don't, [download Microsoft Visual Studio for free](http://www.visualstudio.com/pt-br/downloads/download-visual-studio-vs#DownloadFamilies_2)
-2. [Create a new ASP.NET WEB API project](http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api), or open an existing one.
-3. Install [WebAPI2Construct](https://www.nuget.org/packages/WebAPI2Construct/) via [NuGet Package Manager](http://docs.nuget.org/docs/start-here/using-the-package-manager-console), inside Visual Studio.
-4. Set up the CORS. See [how to set up CORS in a WEB API project](http://www.asp.net/web-api/overview/security/enabling-cross-origin-requests-in-web-api)
-5. Disable XML formatter inside the *Register* method, in the *WebAPIConfig.cs* (it can be found at *App_Start* project's folder). It will make JSON the default formatter:
-
-```
-// Use JSON as the default response format
-config.Formatters.Remove(config.Formatters.XmlFormatter); // Disable the XML formatter
-```
-
-Now you are ready to use the ```Construct2Convert.ToDictionary()``` in a Controller Action to convert objects or collections, like arrays, to the Construct2 Dictionary data format, example:
-
-```
-// An example object with the data to be sent to the game
-PlayerData playerData = new PlayerData();
-playerData.PlayerName = "John";
-playerData.HiScore = 999;
-
-// Use WebAPI2Construct to transform your data in a Construct2 readable format
-var playerDataJSONDictionary = Construct2Convert.ToDictionary(playerData);
-
-return Ok(playerDataJSONDictionary); // Send the data to the game
-```
-
-###### Second pass: Construct 2
-2. When in Construct 2, use an [AJAX object](https://www.scirra.com/manual/107/ajax) *Request URL* action to request the data to ASP.NET WEB API project that still runing in Visual Studio, or hosted in a web server.
-3. Catch the data in the game using the AJAX *On completed* event.
-4. Use a [Dictionary](https://www.scirra.com/manual/140/dictionary) object *Load* action to load the data from the *AJAX.LastData* variable.
-5. After that you be able to read your data from inside the [Dictionary](https://www.scirra.com/manual/140/dictionary).
-
-### Why using Construct 2 Dictionaries?
-Using a Dictionary you will be able to pass more complex data to the game, at the same time.
+Using AJAX object with ASP.NET Web API
+[https://www.scirra.com/tutorials/1297/using-ajax-object-with-aspnet-web-api]
 
 ## LICENSE
 [Apache 2.0 License](https://github.com/dannevesdantas/WebAPI2Construct/blob/master/LICENSE)
