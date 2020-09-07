@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI2Construct", "src\WebAPI2Construct\WebAPI2Construct.csproj", "{043E47D6-B91E-43BB-B198-08535EA08CDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI2Construct", "src\WebAPI2Construct\WebAPI2Construct.csproj", "{ED227E3A-1D0F-442C-9C8E-74FE5ECAAB74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{043E47D6-B91E-43BB-B198-08535EA08CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{043E47D6-B91E-43BB-B198-08535EA08CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{043E47D6-B91E-43BB-B198-08535EA08CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{043E47D6-B91E-43BB-B198-08535EA08CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED227E3A-1D0F-442C-9C8E-74FE5ECAAB74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED227E3A-1D0F-442C-9C8E-74FE5ECAAB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED227E3A-1D0F-442C-9C8E-74FE5ECAAB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED227E3A-1D0F-442C-9C8E-74FE5ECAAB74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {405A1BFB-2C9C-4BD0-A41B-22D79AEDD463}
+		SolutionGuid = {F9E67C8F-B3A2-46FF-8041-860FCDD4AFC6}
 	EndGlobalSection
 EndGlobal
