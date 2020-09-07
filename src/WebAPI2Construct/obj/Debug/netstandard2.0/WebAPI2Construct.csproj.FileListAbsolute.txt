@@ -1,9 +1,0 @@
-C:\Users\danne\OneDrive\Documentos\GitHub\WebAPI2Construct\WebAPI2Construct\WebAPI2Construct\bin\Debug\netstandard2.0\WebAPI2Construct.deps.json
-C:\Users\danne\OneDrive\Documentos\GitHub\WebAPI2Construct\WebAPI2Construct\WebAPI2Construct\bin\Debug\netstandard2.0\WebAPI2Construct.dll
-C:\Users\danne\OneDrive\Documentos\GitHub\WebAPI2Construct\WebAPI2Construct\WebAPI2Construct\obj\Debug\netstandard2.0\WebAPI2Construct.csprojAssemblyReference.cache
-C:\Users\danne\OneDrive\Documentos\GitHub\WebAPI2Construct\WebAPI2Construct\WebAPI2Construct\obj\Debug\netstandard2.0\WebAPI2Construct.AssemblyInfoInputs.cache
-C:\Users\danne\OneDrive\Documentos\GitHub\WebAPI2Construct\WebAPI2Construct\WebAPI2Construct\obj\Debug\netstandard2.0\WebAPI2Construct.AssemblyInfo.cs
-C:\Users\danne\OneDrive\Documentos\GitHub\WebAPI2Construct\WebAPI2Construct\WebAPI2Construct\bin\Debug\netstandard2.0\WebAPI2Construct.pdb
-C:\Users\danne\OneDrive\Documentos\GitHub\WebAPI2Construct\WebAPI2Construct\WebAPI2Construct\obj\Debug\netstandard2.0\WebAPI2Construct.csproj.CoreCompileInputs.cache
-C:\Users\danne\OneDrive\Documentos\GitHub\WebAPI2Construct\WebAPI2Construct\WebAPI2Construct\obj\Debug\netstandard2.0\WebAPI2Construct.dll
-C:\Users\danne\OneDrive\Documentos\GitHub\WebAPI2Construct\WebAPI2Construct\WebAPI2Construct\obj\Debug\netstandard2.0\WebAPI2Construct.pdb
