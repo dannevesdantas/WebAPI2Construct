@@ -27,7 +27,7 @@ public async Task<ActionResult<object>> GetPlayerData()
 ```
 
 ## Tutorial
-Visit Using AJAX object with ASP.NET Web API tutorial at [https://www.scirra.com/tutorials/1297/using-ajax-object-with-aspnet-web-api](https://www.scirra.com/tutorials/1297/using-ajax-object-with-aspnet-web-api)
+Visit Using AJAX object with ASP.NET Web API tutorial at [https://www.construct.net/en/tutorials/using-ajax-object-asp-net-web-832](https://www.construct.net/en/tutorials/using-ajax-object-asp-net-web-832)
 
 ## Get it on NuGet
     
